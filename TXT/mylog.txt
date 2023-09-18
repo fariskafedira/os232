@@ -6,3 +6,9 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 ZCZC W00 15 L03 Setting up GitHub
+ZCZC W02 15 L05 OS Quiz
+ZCZC W02 60 L05 Study preparing for quiz
+ZCZC W02 130 L12 Assignment #02
+ZCZC L02 100 L02 OS Class
+ZCZC L02 50 L02 OS Class
+ZCZC L06 40 L06 Browsing and searching references for assignment
