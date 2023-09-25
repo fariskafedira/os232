@@ -9,6 +9,12 @@ ZCZC W00 15 L03 Setting up GitHub
 ZCZC W02 15 L05 OS Quiz
 ZCZC W02 60 L05 Study preparing for quiz
 ZCZC W02 130 L12 Assignment #02
-ZCZC L02 100 L02 OS Class
-ZCZC L02 50 L02 OS Class
-ZCZC L06 40 L06 Browsing and searching references for assignment
+ZCZC W02 100 L02 OS Class
+ZCZC W02 50 L02 OS Class
+ZCZC W02 40 L06 Browsing and searching references for assignment
+ZCZC W03 60 L05 Study preparing for quiz
+ZCZC W03 15 L05 OS Quiz
+ZCZC W03 100 L12 Assignment #03
+ZCZC W03 100 L02 OS Class
+ZCZC W03 50 L02 OS Class
+ZCZC W03 40 L06 Browsing and searching references for assignment
