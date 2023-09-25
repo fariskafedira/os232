@@ -19,3 +19,8 @@ It presents the essential Linux commands for a beginner user.
 Guide in mastering Regex, covering its essentials, understanding Regex flags, mastering both basic and complex matching methods, and more.
 <br>
 <hr>
+
+* [How to Add Additional Hard Drive in VirtualBox](https://youtu.be/XmpFXe3Opws?si=s5Kn-gCypVoN8n5y) --- 
+Guide you how to easily attach an extra hard drive in virtual box.
+<br>
+<hr>
