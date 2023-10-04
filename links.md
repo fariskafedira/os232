@@ -24,3 +24,8 @@ Guide in mastering Regex, covering its essentials, understanding Regex flags, ma
 Guide you how to easily attach an extra hard drive in virtual box.
 <br>
 <hr>
+
+* [How Secure Shell Works (SSH)](https://youtu.be/ORcvSkgdA58?si=YILURvGPdzN4v3Xy) --- 
+It explain how the SSH works.
+<br>
+<hr>
