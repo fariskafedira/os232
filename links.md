@@ -23,3 +23,6 @@ It explain how the SSH works.
 * [Introduction to Memory Management in Linux](https://youtu.be/7aONIVSXiJ8?si=Nx4dvOMDm5mF4tdu) --- 
 Explain the various categories of virtual memory spaces and mappings employed within the Linux kernel.
 <br>
+* [C Programming Tutorial for Beginners](https://youtu.be/KJgsSFOSQv0?si=1HRTbjy8nEv6HUyq) --- 
+Provide a comprehensive overview of the fundamental principles in the C programming language.
+<br>
