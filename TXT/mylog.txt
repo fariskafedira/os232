@@ -24,3 +24,9 @@ ZCZC W04 100 L02 OS Class
 ZCZC W04 50 L02 OS Class
 ZCZC W04 40 L06 Browsing and searching references for assignment
 ZCZC W04 20 L03 GitHub related
+ZCZC W05 110 L05 Study preparing for quiz
+ZCZC W05 15 L05 OS Quiz
+ZCZC W05 120 L12 Assignment #05
+ZCZC W05 100 L02 OS Class
+ZCZC W05 50 L02 OS Class
+ZCZC W05 80 L06 Browsing and searching references for assignment
