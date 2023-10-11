@@ -8,24 +8,18 @@ permalink: LINKS/
 Provide a comprehensive description of the various folders and their contents in Linux.
 It will help you to understand what all the folders are for, and what's in them.
 <br>
-<hr>
-
 * [60 Linux Commands you NEED to know (in 10 minutes)](https://youtu.be/gd7BXuUQ91w?si=NxTw3tHGmSjsH-WL) --- 
 It presents the essential Linux commands for a beginner user.
 <br>
-<hr>
-
 * [Learn Regular Expressions In 20 Minutes](https://youtu.be/rhzKDrUiJVk?si=v27cq4ch8FtSgG1Q) --- 
 Guide in mastering Regex, covering its essentials, understanding Regex flags, mastering both basic and complex matching methods, and more.
 <br>
-<hr>
-
 * [How to Add Additional Hard Drive in VirtualBox](https://youtu.be/XmpFXe3Opws?si=s5Kn-gCypVoN8n5y) --- 
 Guide you how to easily attach an extra hard drive in virtual box.
 <br>
-<hr>
-
 * [How Secure Shell Works (SSH)](https://youtu.be/ORcvSkgdA58?si=YILURvGPdzN4v3Xy) --- 
 It explain how the SSH works.
 <br>
-<hr>
+* [Introduction to Memory Management in Linux](https://youtu.be/7aONIVSXiJ8?si=Nx4dvOMDm5mF4tdu) --- 
+Explain the various categories of virtual memory spaces and mappings employed within the Linux kernel.
+<br>
