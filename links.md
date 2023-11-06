@@ -26,3 +26,9 @@ Explain the various categories of virtual memory spaces and mappings employed wi
 * [C Programming Tutorial for Beginners](https://youtu.be/KJgsSFOSQv0?si=1HRTbjy8nEv6HUyq) --- 
 Provide a comprehensive overview of the fundamental principles in the C programming language.
 <br>
+* [Getting started in security research - Kevin Backhouse](https://youtu.be/4fG5FS3t3ls?si=lMHYMmJDFNqEhvlK) --- 
+A security researcher, shares his experience and techniques, like code auditing and fuzzing, in the secure code area.
+<br>
+* [fork() and exec() System Calls](https://youtu.be/IFEFVXvjiHY?si=I2ZxSXRD9IzssI6J) --- 
+Discusses two critical operating system system calls: "fork()" and "exec()". It explores their functions and how they are used in process creation and program execution.
+<br>
