@@ -30,3 +30,9 @@ ZCZC W05 120 L12 Assignment #05
 ZCZC W05 100 L02 OS Class
 ZCZC W05 50 L02 OS Class
 ZCZC W05 80 L06 Browsing and searching references for assignment
+ZCZC W06 110 L05 Study preparing for quiz
+ZCZC W06 15 L05 OS Quiz
+ZCZC W06 120 L12 Assignment #05
+ZCZC W06 100 L02 OS Class
+ZCZC W06 50 L02 OS Class
+ZCZC W06 100 L06 Browsing and searching references for assignment
