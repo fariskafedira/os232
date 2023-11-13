@@ -32,3 +32,6 @@ A security researcher, shares his experience and techniques, like code auditing 
 * [fork() and exec() System Calls](https://youtu.be/IFEFVXvjiHY?si=I2ZxSXRD9IzssI6J) --- 
 Discusses two critical operating system system calls: "fork()" and "exec()". It explores their functions and how they are used in process creation and program execution.
 <br>
+* [Process Synchronization](https://youtu.be/ph2awKa8r5Y?si=v9yi5Yvwba93a-Xc) ---
+Explore the intricacies of process synchronization in operating systems, delving into topics such as cooperating processes and more.
+<br>
