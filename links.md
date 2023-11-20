@@ -35,3 +35,6 @@ Discusses two critical operating system system calls: "fork()" and "exec()". It 
 * [Process Synchronization](https://youtu.be/ph2awKa8r5Y?si=v9yi5Yvwba93a-Xc) ---
 Explore the intricacies of process synchronization in operating systems, delving into topics such as cooperating processes and more.
 <br>
+* [How to build Linux From Scratch 11.2](https://youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ&si=6A5UfpX7pyX5txSS) ---
+Guiding users through the understanding of the components, their functions, and the construction of a fully operational, manually compiled Linux From Scratch 11.2 system.
+<br>
