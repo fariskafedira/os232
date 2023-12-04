@@ -41,3 +41,7 @@ Guiding users through the understanding of the components, their functions, and 
 * [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.0/) ---
 A comprehensive step-by-step guide empowering beginners to build their own Linux system from scratch.
 <br>
+<br>
+* [LinuxQuestions.org](https://www.linuxquestions.org/) ---
+This website might be able to help you find a solution to the errors that occur when working on LFS.
+<br>
